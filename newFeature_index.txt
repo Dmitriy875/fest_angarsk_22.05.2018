@@ -1,1 +1,1 @@
-abstract class Feature()
+abstract class Feature();
