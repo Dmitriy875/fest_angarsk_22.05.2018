@@ -1,1 +1,1 @@
-abstract class first ();
+abstract class first ()
