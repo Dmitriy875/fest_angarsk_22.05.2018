@@ -1,3 +1,5 @@
 abstract class first () {
 	abstract function fartGirl();
 }
+
+Я же вот езжу на пежо. И не пижжу.
