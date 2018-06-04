@@ -2,4 +2,7 @@ abstract class first () {
 	abstract function fartGirl();
 }
 
+<<<<<<< HEAD
 А я вам так скажу. А я вам т-а-а-а-к скажу:
+Я же вот езжу на пежо. И не пижжу.
+>>>>>>> conf
