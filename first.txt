@@ -1,3 +1,5 @@
 abstract class first () {
 	abstract function fartGirl();
 }
+
+А я вам так скажу. А я вам т-а-а-а-к скажу:
